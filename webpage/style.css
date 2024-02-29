@@ -1,0 +1,12 @@
+#outerDiv {
+  background-color: lightblue;
+  text-align: center;
+  height: 500px;
+  width: 500px;
+}
+#msg {
+  background-color: lightcoral;
+  text-align: center;
+  height: 16px;
+  width: 500px;
+}

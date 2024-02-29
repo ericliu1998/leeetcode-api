@@ -1,0 +1,12 @@
+{
+  "name": "Leetcode Files Downloader",
+  "version": "1.0.0",
+  "description": "Download the solution and test files for python to run and debug locally.",
+  "manifest_version": 3,
+  "author": "Eric L",
+  "permissions": ["activeTab"],
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Leetcode Files Downloader"
+  }
+}
